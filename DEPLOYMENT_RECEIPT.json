@@ -1,0 +1,14 @@
+{
+  "project": "oliver-heaviside-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "BLffJdfvMTyDTLFi41hddreK968ZuUgDa3aoNvDxyPoB",
+  "vault_account": "6qAyoCax3YpHoyDKKrwUkJtvDZ4yXog1jTZh8PjBR7yR",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "2jpm6MkpFGE4KkjtUxX9E6yrVACe9hx6dMvcqubyj5AiGpKkcME56TcNXzB3sSZkzZFdwkLKnH8GhrsRjPYxU8GS",
+  "account_tx": "5Hq5f6kohG3JSmVVrSd9woAm6n3QZwnWu478jthRksS9h5pQ7QVwwGF2cbXtRsAQM7iCFwhryjDF2nVpv6Xxj5Ny",
+  "mint_tx": "UU9h8rwiEUhbfhhFU4DUpfa1eJRQJApqf31NCa9sbb9X3sDpQAzPa9DHgPMnfj9rJWai6AJQZUXmZS1TRRVR9G2",
+  "solana_explorer_mint": "https://explorer.solana.com/address/BLffJdfvMTyDTLFi41hddreK968ZuUgDa3aoNvDxyPoB?cluster=devnet",
+  "timestamp": "2026-10-26 16:52:05 UTC"
+}
